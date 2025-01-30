@@ -1,4 +1,4 @@
-package gr.MyProjects.MaxSumSubrrayApp;
+package gr.MyProjects.MaxSumSubArrayApp;
 
 public class MaxSumSubrray {
     public static int maxSubArraySum(int[] nums) {
